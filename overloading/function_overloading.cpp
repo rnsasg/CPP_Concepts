@@ -20,3 +20,10 @@ int main(void)
 	return 0;
 }
 
+/* Output :
+ *
+ * [root@narayan overloading]# ./a.out
+ * int sum( int a , int b , int c)
+ * In int sum( int a , int b )
+ *
+ */
